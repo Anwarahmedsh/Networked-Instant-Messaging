@@ -1,7 +1,7 @@
 # Networked-Instant-Messaging
 implmenting java, gui, The Instant Messaging (IM) system is a feature-rich and user-friendly networked application, specifically designed to facilitate text communication between users over the internet. Our app, designed for simplicity and efficiency, provides a seamless experience for individuals engaging in text-based conversations with friends, family, or colleagues. With its intuitive user interface and robust server-side capabilities, our IM system offers a reliable platform for instant messaging.
 
-#Features
+# Features
 •	Multiple Conversations: Users can be involved in multiple conversations simultaneously. The system allows users to manage and switch between different ongoing conversations.
 
 •	Private Conversations: The client program provides a facility for private conversations between two clients. Users can initiate a private conversation and exchange messages exclusively with the selected recipient.
